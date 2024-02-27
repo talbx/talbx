@@ -3,6 +3,8 @@
 </a>
 <a href="https://github.com/talbx">
   <img height=200 align="center" src="https://raw.githubusercontent.com/talbx/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+</a>
+<a href="https://github.com/talbx">
   <img height=200 align="center" src="https://raw.githubusercontent.com/talbx/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 </a>
 <!--<a href="https://github.com/talbx">
