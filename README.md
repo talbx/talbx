@@ -1,4 +1,4 @@
-<a href="https://github.com/talbx">
+[![Stack](https://skillicons.dev/icons?i=go,azure,aws,kubernetes,docker,terraform,spring,ts,react,vue,bash)](https://github.com/talbx)
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=talbx&custom_title=talbx%20GitHub%20Stats&hide=stars&hide_title=true&show=discussions_started,prs_merged,prs_merged_percentage&show_icons=true" />
 </a>
 <a href="https://github.com/talbx">
